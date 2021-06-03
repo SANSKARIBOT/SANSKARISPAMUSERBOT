@@ -12,7 +12,6 @@ from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 
 from sanskaribot.utils import admin_cmd, sudo_cmd, edit_or_reply
-from userbot.cmdhelp import CmdHelp
 from sanskaribot.Config import Config
 
 LOGGER = Config.PLUGIN_CHANNEL
@@ -95,12 +94,3 @@ async def tiny_pic_spam(e):
         )
 
 
-CmdHelp("spam").add_command(
-  "spam", "<number> <text>", "Sends the text 'X' number of times.", ".spam 99 Hello"
-).add_command(
-  "mspam", "<reply to media> <number>", "Sends the replied media (gif/ video/ sticker/ pic) 'X' number of times", ".mspam 100 <reply to media>"
-).add_command(
-  "dspam", "<delay> <spam count> <text>", "Sends the text 'X' number of times in 'Y' seconds of delay", ".dspam 5 100 Hello"
-).add_command(
-  "bigspam", "<count> <text>", "Sends the text 'X' number of times. This what sanskaribot iz known for. The Best BigSpam Ever", ".bigspam 5000 Hello"
-).add()
