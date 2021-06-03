@@ -71,8 +71,3 @@ async def _(event):
     )
 
 
-CmdHelp("ping").add_command(
-  "ping", None, "Shows you the ping speed of server"
-).add_command(
-  "hbping", None, "Shows you the ping speed of server with an animation"
-).add()
