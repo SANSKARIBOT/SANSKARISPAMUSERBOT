@@ -43,7 +43,7 @@ async def fightbot(event):
         await bot.send_message(kek, "Chut ke pasine mein talay huye bhajiye- Snack fried in pussy sweat")
         await bot.send_message(kek, "Chut ke dhakkan- Pussy lid")
         await bot.send_message(kek, "Chut ke gulam")
-        await bot.send_message(kek, "Chutiya ka bheja ghas khane gaya hai- idiot?™s brain has gone to eat grass")
+        await bot.send_message(kek, "Chutiya ka bheja ghas khane gaya hai- idiot? brain has gone to eat grass")
         await bot.send_message(kek, "Choot marani ka- Pussy whipped")
         await bot.send_message(kek, "Choot ka baal")
         await bot.send_message(kek, "Chipkali ke jhaat ke baal")
