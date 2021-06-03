@@ -100,11 +100,11 @@ async def fightbot(event):
         await bot.send_message(kek, "CHUTIYA")
         await bot.send_message(kek, "TERI MAA KI CHUT PE JCB CHADHAA DUNGA")
         await bot.send_message(kek, "SAMJHAA LAWDE")
-        await bot.send_message(kek, "YA DU TERE GAAND ME TAPAA TAP??")
+        await bot.send_message(kek, "YA DU TERE GAAND ME TAPAA TAP")
         await bot.send_message(kek, "TERI BEHEN MERA ROZ LETI HAI")
-        await bot.send_message(kek, "TERI GF K SAATH MMS BANAA CHUKA HU???¤£?¤£")
+        await bot.send_message(kek, "TERI GF K SAATH MMS BANAA CHUKA HU")
         await bot.send_message(kek, "TU CHUTIYA TERA KHANDAAN CHUTIYA")
-        await bot.send_message(kek, "AUR KITNA BOLU BEY MANN BHAR GAYA MERA?¤£")
+        await bot.send_message(kek, "AUR KITNA BOLU BEY MANN BHAR GAYA MERA")
         await bot.send_message(kek, "Ab nikal ja jaake chkko k saath hilaa")
         
         
